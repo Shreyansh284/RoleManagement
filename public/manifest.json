@@ -1,0 +1,17 @@
+{
+    "name": "Role Management",
+    "short_name": "RM",
+    "start_url": "/auth/login.blade.php",
+    "background_color": "#6777ef",
+    "description": "Role Management",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
